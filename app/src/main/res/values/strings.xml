@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MobMaximeTest</string>
+
+    //login
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+
+    //weather
+    <string name="view_weather">View Weather</string>
+    <string name="degree_celsius_symbol">°C</string>
+    <string name="description_weather_condition_icon">weather condition icon</string>
+    <string name="label_humidity">Humidity</string>
+    <string name="label_pressure">Pressure</string>
+    <string name="label_visibility">Visibility</string>
+    <string name="label_sunrise">Sunrise</string>
+    <string name="label_sunset">Sunset</string>
+    <string name="error_email">Enter Valid Email</string>
+    <string name="error_passwors">Enter Valid Password</string>
+
+</resources>
